@@ -118,8 +118,4 @@ Egyptian-Railways-Analytics/
 
 **Dr. Amal Mahmoud**
 
----
 
-<p align="center">
-  **Railytics | Turning Railway Data into Insights**
-</p>
